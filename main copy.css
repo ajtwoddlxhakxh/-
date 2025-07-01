@@ -1,0 +1,14 @@
+body {
+    padding: 100px;
+}
+.container {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+}
+.container .item {
+    width: 100px;
+    height: 100px;
+    background-color: powderblue;
+    transform: rotate(45deg) scale(1.3);
+}
